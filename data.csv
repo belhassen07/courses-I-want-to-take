@@ -1,0 +1,24 @@
+name,duration,section,number,url
+Css grids,338,frontend,8,https://frontendmasters.com/courses/css-grids-flexbox/
+Advanced async js,214,frontend,20,https://frontendmasters.com/courses/advanced-async-js/
+Testing and Modular Front-End,129,frontend,16,https://frontendmasters.com/courses/testing-modular-front-end/
+Testing JavaScript Applications (feat. React and Redux),305,frontend,19,https://frontendmasters.com/courses/testing-javascript/
+Sass fundamentals,224,frontend,3,https://frontendmasters.com/courses/sass/
+Debugging and Fixing Common JavaScript Errors,219,frontend,15,https://frontendmasters.com/courses/debugging-javascript/
+Scalable Modular Architecture for CSS (SMACSS),351,frontend,6,https://frontendmasters.com/courses/smacss/
+Advanced JavaScript,328,frontend,17,https://frontendmasters.com/courses/advanced-javascript/
+Modern search engine optimization,244,frontend,22,https://frontendmasters.com/courses/modern-seo/
+Interactive Data Visualization with D3.js,350,frontend,2,https://frontendmasters.com/courses/interactive-data-visualization-d3-js/
+Lean Front-End Engineering,312,frontend,7,https://frontendmasters.com/courses/lean-front-end-engineering/
+Website Accessibility,244,frontend,9,https://frontendmasters.com/courses/web-accessibility/
+Functional-Lite JavaScript,189,frontend,18,https://frontendmasters.com/courses/functional-javascript-v2/
+Web security,271,frontend,11,https://frontendmasters.com/courses/web-security/
+Web performance,303,frontend,10,https://frontendmasters.com/courses/web-performance/
+SQL fundamentals,295,backend,1,https://frontendmasters.com/courses/sql-fundamentals/
+Progressive Web Applications and Offline,602,backend,9,https://frontendmasters.com/courses/progressive-web-apps/
+Real-Time Web with Node.js,323,backend,5,https://frontendmasters.com/courses/realtime-html5-nodejs/
+Secure Authentication for Web Apps & APIs Using JWTs,202,backend,14,https://frontendmasters.com/courses/secure-auth-jwt/
+Zero to Production Node.js on Amazon Web Services,691,backend,12,https://frontendmasters.com/courses/production-node-aws/
+GIT in deph,231,tools,13,https://frontendmasters.com/courses/git-in-depth/
+Typescript fundamentals,433,tools,4,https://frontendmasters.com/courses/typescript/
+Introduction to Bash VIM & Regex,258,tools,21,https://frontendmasters.com/courses/bash-vim-regex/
